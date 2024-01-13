@@ -1,0 +1,71 @@
+    /* banner style section>*/
+    
+    .banner-background {
+        border: 5px solid;
+        margin: 50px 140px 50px 140px;
+        background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../image/Banner\ Image.png');
+        border-radius: 16px;
+        width: 1320px;
+        height: 600px;
+    }
+    
+    .text {
+        text-align: center;
+    }
+    
+    .grettings {
+        margin: 0;
+        height: 40px;
+        width: 260px;
+        padding: 177px 530px 0 530px;
+        color: #FFF;
+        font-family: Merriweather;
+        font-size: 32px;
+        font-weight: 400;
+    }
+    
+    .party-celebrate {
+        margin: 0;
+        position: center;
+        width: 630px;
+        height: 190px;
+        padding: 16px 44px 177px 370px;
+        color: #FFF;
+        font-family: Merriweather;
+        font-size: 72px;
+        font-weight: 900;
+    }
+    /* Offer section style */
+    
+    .offer-text {
+        margin: 10px 300px 40px 300px;
+        border: 5px solid black;
+        text-align: center;
+    }
+    
+    .offer {
+        color: #F00;
+        font-family: Inter;
+        font-size: 50px;
+        font-weight: 700;
+    }
+    
+    .deals {
+        color: #F00;
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    
+    .products {
+        color: #070211;
+        text-align: center;
+        font-family: Inter;
+        font-size: 48px;
+        font-weight: 700;
+    }
+    
+    .offer-img {
+        width: 700px;
+        height: 500px;
+    }
