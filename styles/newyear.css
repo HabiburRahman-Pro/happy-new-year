@@ -163,6 +163,7 @@
 }
 
 .join-button {
+    color: white;
     width: 150;
     height: 50;
     font-size: 16px;
@@ -172,5 +173,62 @@
     padding: 16px 32px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 100px;
+}
+
+.comming-soon {
+    padding-left: 50px;
+}
+
+.best-offer {
+    margin: 50px 200px;
+    display: flex;
+    gap: 100px;
+    border: 0;
+    width: 1220px;
+    height: 700px;
+    align-items: center;
+}
+
+.NEW {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.coming {
+    color: black;
+    font-family: Merriweather;
+    font-size: 38px;
+    font-weight: 900;
+}
+
+.para {
+    padding: 0 0 0 5px;
+    color: black;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.declare {
+    color: rgb(62, 24, 233);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.fire-cracker {
+    padding: 30px;
+    border: 8px #F00 solid;
+    border-radius: 50%;
 }
